@@ -34,3 +34,51 @@ The Manga Viewer application fetches data from a prepared API server. This API i
 
    ```bash
    git clone <repository-url>
+   ```
+
+2. Navigate to the project directory:
+
+   ```bash
+   cd manga-viewer
+   ```
+
+3. Install dependencies:
+
+   ```bash
+   npm install
+   ```
+
+4. Start the development server:
+
+   ```bash
+   npm run dev
+   ```
+
+5. Open the application in your browser at `http://localhost:3000`.
+
+## Usage
+
+- Click on a **book** title to load its chapters.
+- Click on a **chapter** button to view the pages in that chapter.
+- Click on the left side of the image to move to the next page or the right side to move to the previous page.
+- Transition smoothly between chapters when you reach the first or last page of a chapter.
+
+## Screenshots
+
+![Manga Viewer](path/to/screenshot.png)
+
+## Technology Stack
+
+- **React**: Frontend library for building user interfaces.
+- **Vite**: Build tool for fast development with React.
+- **Axios**: HTTP client for making API requests.
+
+## Future Enhancements
+
+- Add a search feature to quickly find books or chapters.
+- Implement a bookmarking system to save the user's progress.
+- Add a dark mode for better readability in low-light conditions.
+
+## License
+
+This project is licensed under the MIT License.
