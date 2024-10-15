@@ -33,7 +33,7 @@ The Manga Viewer application fetches data from a prepared API server. This API i
 1. Clone this repository:
 
    ```bash
-   git clone <repository-url>
+   git clone 
    ```
 
 2. Navigate to the project directory:
@@ -63,21 +63,11 @@ The Manga Viewer application fetches data from a prepared API server. This API i
 - Click on the left side of the image to move to the next page or the right side to move to the previous page.
 - Transition smoothly between chapters when you reach the first or last page of a chapter.
 
-## Screenshots
-
-![Manga Viewer](path/to/screenshot.png)
-
 ## Technology Stack
 
 - **React**: Frontend library for building user interfaces.
 - **Vite**: Build tool for fast development with React.
 - **Axios**: HTTP client for making API requests.
-
-## Future Enhancements
-
-- Add a search feature to quickly find books or chapters.
-- Implement a bookmarking system to save the user's progress.
-- Add a dark mode for better readability in low-light conditions.
 
 ## License
 
