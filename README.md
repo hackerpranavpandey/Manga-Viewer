@@ -33,7 +33,7 @@ The Manga Viewer application fetches data from a prepared API server. This API i
 1. Clone this repository:
 
    ```bash
-   git clone 
+   git clone https://github.com/hackerpranavpandey/Manga-Viewer.git
    ```
 
 2. Navigate to the project directory:
@@ -71,4 +71,4 @@ The Manga Viewer application fetches data from a prepared API server. This API i
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the Apache License.
