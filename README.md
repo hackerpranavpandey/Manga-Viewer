@@ -1,4 +1,3 @@
-# Manga-Viewer
 
 # Manga Viewer Application
 
