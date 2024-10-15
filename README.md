@@ -71,4 +71,4 @@ The Manga Viewer application fetches data from a prepared API server. This API i
 
 ## License
 
-This project is licensed under the Apache License.
+This project is licensed under the Apache-2.0 License.
