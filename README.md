@@ -5,13 +5,13 @@ This is a simple Manga Viewer application that allows users to browse manga book
 
 ## Features
 
-- **Booklist**: On the top of the screen, there are buttons with the manga book titles. You can switch between books by clicking the button. (Time: 0:06 - 0:12)
+- **Booklist**: On the top of the screen, there are buttons with the manga book titles. You can switch between books by clicking the button.
   
-- **Chapter List**: Below the title buttons, there are buttons with the chapter numbers. A chapter can be switched by clicking the buttons. (Time: 0:14 - 0:24)
+- **Chapter List**: Below the title buttons, there are buttons with the chapter numbers. A chapter can be switched by clicking the buttons.
   
-- **Page Transition**: By clicking the left side of the image, you can move to the next page. By clicking the right side of the image, you can move to the previous page. (Time: 0:27 - 0:40)
+- **Page Transition**: By clicking the left side of the image, you can move to the next page. By clicking the right side of the image, you can move to the previous page.
 
-- **Page Transition Between Chapters**: If you try to move to the next page from the last page of a chapter, you automatically move to the next chapter. Similarly, moving to the previous page from the first page of a chapter takes you to the previous chapter's last page. (Time: 0:47 - 0:58)
+- **Page Transition Between Chapters**: If you try to move to the next page from the last page of a chapter, you automatically move to the next chapter. Similarly, moving to the previous page from the first page of a chapter takes you to the previous chapter's last page.
 
 ## API
 
